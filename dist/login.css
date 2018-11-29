@@ -1,0 +1,12 @@
+/* Input */
+.busy { background-image: url(login/sprite.png); background-position: -101px -708px; background-size: 1008px 754px; }
+.home { background-image: url(login/sprite.png); background-position: -61px -708px; background-size: 1008px 754px; }
+.jd-logo { background-image: url(login/sprite.png); background-position: 0px -708px; background-size: 1008px 754px; }
+.leave { background-image: url(login/sprite.png); background-position: -77px -708px; background-size: 1008px 754px; }
+.lock { background-image: url(login/sprite.png); background-position: -46px -726px; background-size: 1008px 754px; }
+.no-net-state { background-image: url(login/sprite.png); background-position: -109px -708px; background-size: 1008px 754px; }
+.online-icon { background-image: url(login/sprite.png); background-position: -85px -708px; background-size: 1008px 754px; }
+.phone-busy { background-image: url(login/sprite.png); background-position: -93px -708px; background-size: 1008px 754px; }
+.pull-down-arrow { background-image: url(login/sprite.png); background-position: -117px -708px; background-size: 1008px 754px; }
+.user-icon { background-image: url(login/sprite.png); background-position: -46px -708px; background-size: 1008px 754px; }
+.login-bg-no-logo { background-image: url(login/sprite.png); background-position: 0px 0px; background-size: 1008px 754px; }

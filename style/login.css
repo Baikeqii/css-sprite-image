@@ -1,0 +1,12 @@
+/* Input */
+.busy { background: url(../login/busy.png) no-repeat 0 0; }
+.home { background: url(../login/home.png) no-repeat 0 0; }
+.jd-logo { background: url(../login/jd_logo.png) no-repeat 0 0; }
+.leave { background: url(../login/leave.png) no-repeat 0 0; }
+.lock { background: url(../login/lock.png) no-repeat 0 0; }
+.no-net-state { background: url(../login/noNetState.png) no-repeat 0 0; }
+.online-icon { background: url(../login/online.png) no-repeat 0 0; }
+.phone-busy { background: url(../login/phone_busy.png) no-repeat 0 0; }
+.pull-down-arrow { background: url(../login/pullDownArrow.png) no-repeat 0 0; }
+.user-icon { background: url(../login/user.png) no-repeat 0 0; }
+.login-bg-no-logo { background: url(../login/login-bg-no-logo.png) no-repeat 0 0; }
