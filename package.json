@@ -9,6 +9,7 @@
     "smiles": "node CSSSprite.js smiles",
     "chatpage": "node CSSSprite.js chatpage",
     "kpi": "node CSSSprite.js kpi",
-    "publicImg": "node CSSSprite.js publicImg"
+    "publicImg": "node CSSSprite.js publicImg",
+    "ehtml": "node CSSSprite.js ehtml"
   }
 }
